@@ -2,6 +2,9 @@
 
 ![Design preview for the Huddle landing page with single introductory section](./design/desktop-preview.jpg)
 
+## Live Site
+Click here to [Live Site](https://huddle-landing-page-with-single-introductory-section-ecru.vercel.app/)
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
